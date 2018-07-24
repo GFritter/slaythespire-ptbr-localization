@@ -881,25 +881,25 @@
     "DESCRIPTION": "Compre cartas até que você tenha !M! na mão."
   },
   "Auto Shields": {
-    "NAME": "Auto-Shields",
-    "DESCRIPTION": "If you have 0 Block, gain !B! Block."
+    "NAME": "Auto-Escudos",
+    "DESCRIPTION": "Se você tiver 0 de Proteção, ganhe !B! de Proteção."
   },
   "Rip and Tear": {
-    "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to !M! random targets."
+    "NAME": "Cortar e Arrancar",
+    "DESCRIPTION": "Dê !D! de dano para !M! alvos aleatórios."
   },
   "Zap": {
     "NAME": "Zap",
-    "DESCRIPTION": "Channel !M! Lightning."
+    "DESCRIPTION": "Canalize !M! Relâmpagos."
   },
   "Fission": {
-    "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Increase your max Orb count by the number of Orbs Evoked."
+    "NAME": "Fissão",
+    "DESCRIPTION": "Evoque todas as suas Orbes. Aumente o seu máximo de Orbes conforme o número de Orbes evocadas."
   },
   "Storm": {
-    "NAME": "Storm",
-    "DESCRIPTION": "Whenever you play a Power, Channel 1 Lightning.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power, Channel 1 Lightning."
+    "NAME": "Tempestade",
+    "DESCRIPTION": "Toda a vez que você jogar um Poder, Canalize 1 Relâmpago.",
+    "UPGRADE_DESCRIPTION": "Inata. NL Toda a vez que você jogar um Poder, Canalize 1 Relâmpago."
   },
   "Impulse": {
     "NAME": "Impulse",
