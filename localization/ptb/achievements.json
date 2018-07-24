@@ -34,13 +34,13 @@
       "Ascender 10",
       "Minimalista",
       "Ohh Rosquinha!",
-      "Sapphire",
-      "Common Sense",
-      "Focused",
+      "Safira",
+      "Senso Comum",
+      "Focado",
       "Neon",
-      "Energy is Overrated",
-      "My Lucky Day",
-      "The Transient"
+      "Energia é Supervalorizada",
+      "Meu Dia de Sorte",
+      "O Transiente"
     ],
     "TEXT": [
       "Vença uma batalha com 1 PV restante.",
@@ -76,13 +76,13 @@
       "Complete a Ascensão Nível 10.",
       "Conclua o jogo com um baralho de 5 cartas ou menor.",
       "Acabe com Donu com um Comer.",
-      "Beat the game with the Defect.",
-      "Beat the game with a deck of only common cards.",
-      "Have 25 or more Focus during combat.",
-      "Channel 9 Plasma in a single turn.",
-      "Play 10 or more cost 0 cards in a single turn.",
-      "Win a Daily Climb.",
-      "Defeat the Transient before it fades away."
+      "Vença o jogo com o Defeituoso.",
+      "Vença o jogo com um deck somente de cartas comuns.",
+      "Tenha 25 de Foco ou mais durante um combate.",
+      "Canalize 9 Plasma em um único turno.",
+      "Jogue 10 ou mais cartas de custo 0 em um mesmo turno.",
+      "Vença uma Daily Climb.",
+      "Derrote o Transiente antes de ele sumir."
     ]
   },
   "CharStat": {
